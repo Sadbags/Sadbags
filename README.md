@@ -3,6 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=Sadbags&icon=6&color=10)](https://visitcount.itsvg.in)
 
 # Badges
+[![aws-cloud-quest-cloud-practitioner (3) (1)](https://github.com/user-attachments/assets/73d5cf0a-5859-499c-b973-a78b5f74e62e)](https://www.credly.com/badges/9242d77f-311e-461d-893d-1afeb28fcc0e/public_url)
 
 
 # 💻 Tech Stack:
